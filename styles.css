@@ -1,0 +1,27 @@
+/* don't forget to include styles.css in html code manually */
+
+* {
+  background-color: black;
+} 
+
+.heart {
+  color: black;
+  padding:0 15px;
+}
+
+.heart:hover {
+  color: red;
+}
+
+.question {
+  border: 10px solid white;
+  color: white;
+  font-family: VT323;
+  font-size: 35px;
+  text-align: center;
+  max-width:900px !important;
+}
+
+#statue {
+  max-width: 900px;
+}
